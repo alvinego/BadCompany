@@ -1,0 +1,2 @@
+# BadCompany
+Bad Company repository
